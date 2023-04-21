@@ -1,0 +1,1 @@
+void dual_pivot_quicksort(int arr[], int left, int right, int *comparisons, int *swaps);
